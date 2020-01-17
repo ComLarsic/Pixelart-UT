@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Pixilart
+Exec=webapp-container --app-id="pixilart.comlarsic" --webappUrlPatterns=https://www.pixilart.com/draw* https://www.pixilart.com/draw
+Icon=icon.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true

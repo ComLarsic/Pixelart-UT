@@ -1,0 +1,15 @@
+{
+    "name": "pixilart.comlarsic",
+    "description": "A simple www.pixilart.com webapp for pixelart",
+    "architecture": "amd64",
+    "title": "Pixilart",
+    "hooks": {
+        "Pixilart": {
+            "apparmor": "Pixilart.apparmor",
+            "desktop": "Pixilart.desktop"
+        }
+    },
+    "version": "1.0.0",
+    "maintainer": "ComLarsic <comlarsic-mail@protonmail.com>",
+    "framework": "ubuntu-sdk-16.04"
+}
